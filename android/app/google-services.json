@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "93384149859",
+    "firebase_url": "https://lancul-v1.firebaseio.com",
+    "project_id": "lancul-v1",
+    "storage_bucket": "lancul-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93384149859:android:c9ecf67ae9f58c8f212156",
+        "android_client_info": {
+          "package_name": "com.languageandculture.lancul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93384149859-0vdtm9stgts0bv45av849roi4eb12hva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi4E-nXQAwWh8ewnuV8vIRvBjOi06vlg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93384149859-0vdtm9stgts0bv45av849roi4eb12hva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93384149859-bamhf0bnteu9vhag20gl2jifgk9343dc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.languageandculture.lancul"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
